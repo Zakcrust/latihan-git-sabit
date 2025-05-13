@@ -4,4 +4,4 @@ function info() {
     console.log("NIM \t\t\t: 1177XXXXXX");
     console.log("Grup ACA  \t\t: 13");
 }
-info();
+info()
